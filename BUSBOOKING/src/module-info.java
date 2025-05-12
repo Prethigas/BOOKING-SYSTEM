@@ -4,5 +4,5 @@
 /**
  * 
  */
-module BUSBOOKING {
+module TRAINBOOKING {
 }
