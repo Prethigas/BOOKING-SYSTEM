@@ -11,7 +11,7 @@ public class BOOKING {
 	{
 		System.out.println("Enter Passenger name: ");
 		name=sc.next();
-		System.out.println("Enter bus no: ");
+		System.out.println("Enter train no: ");
 		id=sc.nextInt();
 		System.out.println("Enter date (dd-mm-yyyy): ");
 		String n=sc.next();
